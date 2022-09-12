@@ -37,6 +37,7 @@ img {
     align-items: center;
     margin: 12px;
     position: relative;
+    width: 20px;
 }
 
 p {
@@ -118,8 +119,9 @@ h3 {
 
 
 .img-confimation {
-    margin-left: 50px;
+    margin-left: 70px;
     margin-top: 0px;
+    width: 120px;;
 }
 
 .thanks {
